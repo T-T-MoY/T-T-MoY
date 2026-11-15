@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>¡Hola! 👋 Soy Moises (T-T-MoY)</h1>
-  <p><strong>Estudiante de Ingeniería de Sistemas e Informática | Full-Stack | Audio DSP & Sound Design</strong></p>
+  <p><strong>Estudiante de Informática Mencion: Desarrollo de Software e Innovacion Tecnologica | Full-Stack | Audio DSP & Sound Design</strong></p>
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Arquitecturas+Full-Stack+%26+Apps+Moviles;Produccion+Musical+%26+Dise%C3%B1o+Sonoro;Plugins+SourcePawn+%26+Desarrollo+en+C%2B%2B;IA+Generativa+Local+%26+Linux" alt="Typing SVG" />
